@@ -237,6 +237,13 @@ The purpose is not just flexibility. It reinforces the ability to move without c
 
 ## Phase 2: Once Walking Normally Again
 
+### Entry Criteria
+
+- Medically cleared for progressive weight-bearing.
+- Walking is possible with improving gait quality.
+- Household and short community walking do not cause a significant increase in pain, swelling, or limping afterward.
+- The injured foot and ankle tolerate progressive loading without a notable symptom flare lasting beyond 24 hours.
+
 ### Goal
 
 Transition from protected mobility into full-body MTB-specific mobility, stability, and movement control.
@@ -245,74 +252,116 @@ Transition from protected mobility into full-body MTB-specific mobility, stabili
 
 20–25 minutes, 4–5 days per week.
 
+### Symptom-Response Rules
+
+- Mild stiffness, mild discomfort, and muscular effort are acceptable.
+- Pain should not keep building during the session.
+- Symptoms should return to baseline later that day or within 24 hours.
+- If pain, swelling, or limping is clearly worse later that day or the next morning, reduce range, volume, or loading.
+- If there is sharp pain, catching, locking, giving-way, or a rapid increase in swelling, stop and reassess.
+
 ### 1. Ankles
 
 - Knee-to-wall: 10/side
 - Controlled ankle circles: 5 each direction
 - Calf raises: 10–15
-- Progressively restore left ankle mobility after clearance
+- Short-foot / arch control: standing or seated, gently lift the arch without curling the toes; hold 5–8 seconds for 5–8 reps
+- Toe yoga or toe spreading: lift the big toe while keeping the others down, then switch; 5–10 reps each pattern
+- Controlled barefoot or stable-shoe weight shifts as tolerated: stand with support and shift gently forward/backward and side-to-side for 8–10 reps each direction
+- Add resisted dorsiflexion and resisted eversion once the foot and ankle tolerate strengthening well: 8–12 controlled reps each
+
+#### Left Ankle Mobility After Clearance
+
+Start with easy motion and only progress if the ankle settles back to baseline later that day or by the next day.
+
+If you have access to a pool and are cleared for partial weight-bearing, use the pool as an intermediate step before full land-based loading.
+
+- **How to progress pool loading:** Start in deeper water, where the body feels lighter and the ankle carries less load. Progress from chest-deep water to upper-waist-deep water as symptoms remain stable. Shallower water means more load through the leg.
+
+- **Pool walking:** In chest-deep to upper-waist-deep water, walk slowly forward for 2–5 minutes. Start with short steps and a smooth gait.
+- **Pool backward walking:** In chest-deep to upper-waist-deep water, walk slowly backward for 1–3 minutes while holding the pool edge if needed.
+- **Pool side stepping:** In chest-deep to upper-waist-deep water, take 5–10 slow steps to one side, then back the other way. Keep the movement controlled.
+- **Pool weight shifts:** Stand in chest-deep to upper-waist-deep water and gently shift more weight onto the left leg, then return to center. Perform 8–10 slow shifts.
+- **Pool calf raise progression:** Stand in chest-deep to upper-waist-deep water and rise gently onto both toes, then lower slowly. Perform 8–10 reps if this is comfortable.
+
+- **Ankle pumps:** Sit or lie down with the left leg supported. Slowly point the foot down, then pull the foot up toward you. Move only through a comfortable range. Perform 10–15 reps.
+- **Ankle circles:** Sit with the left leg supported and slowly make small circles with the ankle. Perform 5 circles each direction.
+- **Ankle alphabet:** Sit with the left leg supported and use the foot to "draw" the alphabet in the air. Keep the motion slow and comfortable. Stop early if the ankle becomes irritated.
+- **Seated tibia-over-foot glide:** Sit in a chair with the left foot on the floor if weight-bearing is allowed. Keep the heel down and slowly move the left knee forward over the toes, then return. Perform 8–10 reps.
+- **Supported weight shifts:** Stand with both hands on a counter or wall. Gently shift a little more weight onto the left side, then return to center. Perform 8–10 slow shifts.
+- **Knee-to-wall on the left:** Only add this when full standing ankle mobility is tolerated. Keep the left heel down and gently move the knee toward the wall. Perform 6–10 controlled reps.
+
+If any of these clearly increase pain, swelling, or limping later that day or the next morning, reduce the range or move back to the earlier drill.
 
 ### 2. Hips
 
 - 90/90 transitions: 8
 - 90/90 forward fold: 20–30 sec/side
-- Hip airplanes: 5/side
-- Adductor rock-backs: 8–10/side
+- Supported hip airplane or supported single-leg balance reach: 3–5/side
+- Adductor rock-backs: start on hands and knees, straighten one leg out to the side with the foot flat, then gently rock the hips backward and forward; 8–10 reps per side
 
 ### 3. Hamstrings
 
-- Dynamic single-leg hinge: 8/side
+- Dynamic single-leg hinge: stand tall, lightly hold support if needed, soften the stance knee, hinge forward at the hips, then return to standing; 8/side
 
 ### 4. Knees
 
-- Progressive knee-flexion work
-- Supported deep knee flexion
+- Progressive knee-flexion work: gently bend and straighten the knee through the comfortable range, then gradually work deeper over time as stiffness improves
+- Supported deep knee flexion: use a counter, door frame, or sturdy support and slowly lower into a deeper bend only as tolerated, then return to standing
 - Gradually work toward comfortable heel-to-butt range
 - Never force through pain or a mechanical block
 
 ### 5. Glutes / Hips
 
-- Bilateral glute bridges
-- Single-leg bridges
-- Hip airplanes
-- Hip hinges
+- Bilateral glute bridges: 2–3 sets of 8–15 with both feet planted, lifting and lowering under control
+- Single-leg bridges: only if pelvic control is good; 6–10 reps per side
+- Hip airplanes: begin with hand support and a small range; 3–5 controlled reps per side
+- Hip hinges: stand tall, push the hips back, keep the back neutral, then return to standing; 8–10 reps
 
 ### 6. Thoracic Spine
 
 - Open books: 8/side
-- Quadruped thoracic rotations: 8/side
-- Thoracic extension over foam roller: 8–10
+- Quadruped thoracic rotations: start on hands and knees, place one hand behind your head, rotate the elbow up toward the ceiling, then back down; 8/side
+- Thoracic extension over foam roller: place the foam roller across the upper back, support the head with the hands, gently extend over the roller, then return; 8–10 reps
 
 ### 7. Shoulders / Scapula
 
-- Supine shoulder flexion
-- Wall/floor slides: 10
-- Scapular push-ups: 10–15
-- Band pull-aparts: 12–15
-- Scapular pull-ups
-- Hanging progression
+- Supine shoulder flexion: 8–10 slow reps
+- Wall/floor slides: 10 reps, moving only through comfortable overhead range
+- Scapular push-ups: 10–15 controlled reps
+- Band pull-aparts: 12–15 reps with relaxed neck and ribs down
+- Scapular pull-ups: 5–8 small controlled reps without bending the elbows much
+- Hanging progression: 2–3 short sets, using the same passive-to-active progression from Phase 1
 
 ### 8. Squat / MTB Position
 
-- Deep squat hold: 20–30 sec
-- Supported squat → stand: 8–10
-- Hip hinge: 10
+- Deep squat hold: 20–30 seconds, holding support if needed and only going as low as the foot, ankle, and knee tolerate
+- Supported squat → stand: 8–10 reps, using a door frame, counter, or TRX-style support if needed
+- Hip hinge: 10 reps, focusing on pushing the hips back while keeping the torso long and controlled
 
 ### 9. Lateral / Single-Leg Control
 
 #### Progress Toward
 
-- Lateral squat shifts
-- Cossack squat progression
-- Single-leg balance
-- Single-leg reaches
-- Hip airplanes
+- Lateral squat shifts: shift your weight side to side with control for 6–8 reps each side
+- Cossack squat progression: start shallow and supported, then gradually increase depth as tolerated
+- Single-leg balance: hold 10–20 seconds per side with fingertip support if needed
+- Single-leg reaches: stand on one leg and reach the other foot lightly forward, sideways, or backward for 3–5 reps
+- Hip airplanes: use support and keep the range small enough to avoid loss of balance or twisting through the foot
+
+Keep the standing knee soft and the foot relaxed during the single-leg drills. If balance is poor, use more hand support rather than twisting through the ankle or gripping hard with the toes.
 
 These develop the ability to move the center of mass laterally while maintaining control through the legs and hips — directly relevant to MTB cornering and technical riding.
 
 ## 5-Minute Pre-Ride MTB Mobility
 
 ### Once Fully Weight-Bearing and Cleared for Riding
+
+#### Return-to-Ride Criteria
+
+- Able to walk briskly for 20–30 minutes without increased limping, swelling, or a next-day symptom flare.
+- Able to perform bilateral calf raises, sit-to-stand, and basic squat/hinge patterns comfortably.
+- Able to tolerate standing MTB position briefly without obvious guarding.
 
 1. Ankle rocks — 10/side
 2. 90/90 hip rotations — 6/side
@@ -321,6 +370,30 @@ These develop the ability to move the center of mass laterally while maintaining
 5. Deep squat + reach — 5
 6. Hip hinges — 8
 7. 30–60 seconds of relaxed MTB-ready movement
+
+#### Return-to-Ride Progression
+
+1. Stationary bike / trainer first
+   - Start with 5–10 minutes
+   - Low resistance
+   - Easy, smooth cadence
+   - Stay seated
+2. Longer easy trainer rides
+   - Progress to 10–15 minutes, then 15–20 minutes if symptoms remain stable
+   - Keep resistance low to moderate
+   - Add short standing efforts only later, if clearly tolerated
+3. Smooth pavement or very smooth non-technical riding
+4. Smooth dirt paths or fire roads
+5. Easy singletrack with limited technical demand
+6. More technical terrain, longer descents, and harder out-of-saddle efforts only after the earlier stages are tolerated well
+
+#### Riding Symptom-Response Rules
+
+- During and after the ride, mild stiffness is acceptable; sharp pain is not.
+- Swelling should not meaningfully increase after the ride.
+- You should not develop a worse limp after riding.
+- If symptoms are worse later that day or the next morning, shorten the next ride or regress the terrain/intensity.
+- Delay technical descending, sprinting, jumps, drops, and repeated hard standing efforts until basic riding is symptom-stable.
 
 ### The Overall Objective
 
@@ -348,6 +421,13 @@ SMALL RANGE → CONTROLLED RANGE → LARGER RANGE → LOADED RANGE → MTB-SPECI
 
 Mobility → Active Mobility → Bodyweight Control → Loaded Mobility → Strength → MTB-Specific Strength
 
+### Entry Criteria
+
+- Full weight-bearing is tolerated in daily activity.
+- Walking is comfortable enough that gait is not being obviously protected.
+- Basic squat, hinge, calf raise, and step-up patterns are tolerated with good control.
+- The injured side can accept progressive loading without a significant next-day flare.
+
 ### Goal
 
 Build strength through the ranges of motion restored during the mobility phases. The weights should help you "own" the mobility rather than replace it.
@@ -362,22 +442,30 @@ Build strength through the ranges of motion restored during the mobility phases.
 - For the previously injured/stiff left knee, prioritize controlled strength through progressively greater knee flexion.
 - For the right shoulder, establish comfortable overhead mobility and scapular control before adding significant overhead loading.
 
+### Symptom-Response Rules
+
+- Mild muscular soreness is acceptable.
+- Joint pain should stay low and should not progressively worsen during the session.
+- Symptoms should return to baseline within 24 hours.
+- If swelling, limping, or joint irritation is clearly worse the next day, reduce load, range, or total volume.
+- Progress load only when movement quality remains good and symptom response is stable.
+
 ### 1. Hips / Glutes
 
 - Glute bridge
-- Weighted glute bridge
+- Weighted glute bridge: place weight across the hips, drive through both feet, lift the hips under control, then lower slowly
 - Single-leg glute bridge
-- Loaded single-leg hip extension
+- Loaded single-leg hip extension: perform the single-leg bridge pattern with added resistance only if pelvic control stays level
 
 - Hip hinge
-- Romanian deadlift
-- Single-leg Romanian deadlift
+- Romanian deadlift: hold weight close to the body, soften the knees, push the hips back, then stand tall again
+- Single-leg Romanian deadlift: hold support if needed, hinge on one leg with a long spine, then return to standing without losing balance
 
 - 90/90 hip mobility
-- Controlled loaded 90/90 transitions
+- Controlled loaded 90/90 transitions: add only light load and move slowly enough to keep the hips in control throughout
 
 - Hip airplane
-- Progressively loaded hip stability work
+- Progressively loaded hip stability work: add load only when you can control the pelvis and stance leg without wobbling or twisting through the foot
 
 #### Primary Goals
 
@@ -390,19 +478,19 @@ Build strength through the ranges of motion restored during the mobility phases.
 
 - Sit-to-stand
 - Bodyweight squat
-- Goblet squat
-- Progressively loaded squat
+- Goblet squat: hold a weight at chest height, sit down and back into the squat, then stand up with control
+- Progressively loaded squat: increase load gradually only while depth, knee tracking, and trunk control stay consistent
 
 - Supported split squat
 - Split squat
-- Loaded split squat
+- Loaded split squat: keep the front foot flat, lower straight down under control, then drive back up without losing balance
 
 - Step-up
-- Loaded step-up
+- Loaded step-up: step onto a stable box or step, stand fully on top, then lower under control
 
 - Lateral squat shift
 - Cossack squat progression
-- Loaded lateral squat/Cossack work
+- Loaded lateral squat/Cossack work: add load only after the bodyweight version is stable and depth is comfortable
 
 #### For the Left Knee
 
@@ -415,19 +503,28 @@ Build strength through the ranges of motion restored during the mobility phases.
 
 Knee-to-wall mobility remains part of the program.
 
-- Calf raise
-- Weighted calf raise
-- Single-leg weighted calf raise
+- Short-foot / arch control: gently lift the arch without curling the toes; hold 5–8 seconds for 5–8 reps
+- Toe yoga / toe spreading: practice separating big-toe movement from the other toes for 5–10 reps each pattern
+- Calf raise: rise onto both toes, pause briefly, then lower slowly for 10–15 reps
+- Weighted calf raise: hold weight only after bodyweight calf raises are easy and controlled
+- Single-leg weighted calf raise: perform only when single-leg bodyweight calf raises are strong and controlled
 
-- Straight-knee calf raise
-- Bent-knee calf raise / soleus raise
-- Loaded soleus work
+- Straight-knee calf raise: keep the knee mostly straight to bias the calf muscle higher up
+- Bent-knee calf raise / soleus raise: keep the knee softly bent throughout to bias the deeper soleus muscle
+- Loaded soleus work: add weight only when the bent-knee version stays smooth and controlled
+
+- Resisted dorsiflexion / tibialis anterior work: pull the foot upward against a band for 8–12 reps
+- Toe lifts or heel walks if tolerated: lift the front of the foot repeatedly or walk briefly on the heels with control
+- Resisted eversion / peroneal work: push the foot outward against a band for 8–12 reps without twisting the knee
+- Lateral balance and ankle-control drills: practice controlled side-to-side balance or step-and-hold work without letting the ankle collapse inward
 
 #### Primary Goals
 
 - Maintain ankle dorsiflexion
 - Build calf strength
 - Build soleus strength
+- Restore foot intrinsic strength and control
+- Build tibialis anterior and peroneal strength for ankle control
 - Develop strength at useful ankle ranges for descending, climbing, braking, and absorbing terrain
 
 Left ankle loading begins only after appropriate medical clearance.
@@ -435,10 +532,10 @@ Left ankle loading begins only after appropriate medical clearance.
 ### 4. Thoracic Spine / Rotation
 
 - Thoracic rotation mobility
-- Controlled loaded rotation
+- Controlled loaded rotation: use a light weight, cable, or band and rotate only through the comfortable trunk range without yanking
 
 - Open book / thoracic rotation
-- Light cable or band rotational work
+- Light cable or band rotational work: keep the hips quiet, rotate the trunk under control, then return slowly
 
 #### Progress Toward
 
@@ -450,17 +547,17 @@ Left ankle loading begins only after appropriate medical clearance.
 
 - Scapular push-up
 - Push-up
-- Loaded push-up progression
+- Loaded push-up progression: elevate or load the push-up only after you can keep the trunk rigid and the shoulder blades controlled
 
 - Hanging
-- Longer controlled hangs
-- Active hangs
+- Longer controlled hangs: gradually increase hang time only if the shoulder remains comfortable afterward
+- Active hangs: gently pull the shoulder blades down and back without bending the elbows much
 - Scapular pull-ups
 - Pull-ups / assisted pull-ups
 
 - Lat pulldown
-- Progressively heavier lat pulldown
-- Pull-up progression
+- Progressively heavier lat pulldown: increase load only while keeping the shoulders controlled and the movement smooth
+- Pull-up progression: use assistance or reduced range as needed, and avoid shrugging or jerking
 
 - Shoulder flexion mobility
 - Controlled overhead movement
@@ -492,11 +589,11 @@ Left ankle loading begins only after appropriate medical clearance.
 #### Progress To
 
 - Loaded dead bug variations
-- Pallof press
-- Cable/band anti-rotation
-- Loaded carries
-- Suitcase carries
-- Farmer carries
+- Pallof press: hold a band or cable at chest height, press straight forward, resist being rotated, then bring the hands back in
+- Cable/band anti-rotation: use a light band or cable and keep the ribs and pelvis steady while the arms move
+- Loaded carries: walk slowly with good posture while holding weight without leaning or twisting
+- Suitcase carries: carry weight on one side only and stay tall without leaning toward or away from it
+- Farmer carries: carry weight in both hands and walk with steady posture and controlled steps
 
 #### Primary Goals
 
@@ -513,8 +610,8 @@ Left ankle loading begins only after appropriate medical clearance.
 - Single-leg Romanian deadlift
 - Step-ups
 - Split squats
-- Single-leg squat progression
-- Single-leg balance with reaches
+- Single-leg squat progression: start with a shallow supported version, then gradually increase depth as control improves
+- Single-leg balance with reaches: stand on one leg and reach the other foot lightly in different directions without losing alignment
 - Hip airplanes
 
 #### Progress From
@@ -528,10 +625,10 @@ The goal is not simply equal strength. The goal is the ability to control the bi
 #### Progress Through
 
 - Lateral weight shift
-- Lateral squat
-- Cossack squat
-- Loaded lateral squat
-- Dynamic lateral movement
+- Lateral squat: sit the hips back and toward one side while the other leg stays lighter
+- Cossack squat: lower more deeply to one side while keeping the other leg longer, then return with control
+- Loaded lateral squat: add weight only after you can control the bodyweight version well
+- Dynamic lateral movement: progress to quicker side-to-side movement only after slow lateral control is solid
 
 #### Primary Goals
 
