@@ -26,8 +26,6 @@ Seated or floor-based.
 
 2. 90/90 HIP MOBILITY
 
-Floor-based 90/90 is preferred.
-
 - Sit in a comfortable 90/90 position.
 - Slowly rotate between positions as tolerated.
 - 6–8 controlled transitions.
@@ -37,7 +35,7 @@ Floor-based 90/90 is preferred.
 
 3. LEFT KNEE MOBILITY
 
-The left knee is particularly stiff, likely related to the earlier crash. The current goal is to gradually restore knee flexion without loading the injured foot.
+The current goal is to gradually restore knee flexion without loading the injured foot.
 
 A. Supine knee flexion
 - Lie on your back.
@@ -81,17 +79,14 @@ Seated single-leg hamstring stretch:
 
 Do not chase maximum range.
 
-6. HIP FLEXOR MOBILITY
-
-Supine hip-flexor stretch
-- Lie on your back near the edge of the bed.
-- Bring the right knee toward your chest.
-- Let the right leg then extend off the edge of the bed while the left leg remains comfortably supported.
-- Keep the pelvis neutral.
-- Let gravity gently lengthen the front of the right hip.
-- 20–30 seconds × 2.
-
-No force, no foot loading.
+6. supine marching
+- Lie on your back, legs straight.
+- Slowly bring the right knee toward your chest.
+- Lower it slowly until the leg is straight again.
+- Keep your pelvis stable.
+- 8–12 reps.
+- 
+Then do the left side if the cast/foot position allows it without stressing the injury.
 
 7. GLUTE BRIDGE PROGRESSION
 
