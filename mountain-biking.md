@@ -476,21 +476,26 @@ Build strength through the ranges of motion restored during the mobility phases.
 
 ### 2. Knees / Legs
 
-- Sit-to-stand
-- Bodyweight squat
-- Goblet squat: hold a weight at chest height, sit down and back into the squat, then stand up with control
-- Progressively loaded squat: increase load gradually only while depth, knee tracking, and trunk control stay consistent
+- Squat progression:
+  - Start with sit-to-stand or bodyweight squat.
+  - Progress to goblet squat by holding a weight at chest height.
+  - Increase weight only if the knees track well and the movement stays controlled.
 
-- Supported split squat
-- Split squat
-- Loaded split squat: keep the front foot flat, lower straight down under control, then drive back up without losing balance
+- Split squat progression:
+  - Start with a supported split squat.
+  - Progress to a normal split squat.
+  - Add weight only after the bodyweight version is stable.
 
-- Step-up
-- Loaded step-up: step onto a stable box or step, stand fully on top, then lower under control
+- Step-up progression:
+  - Step onto a stable box or step.
+  - Stand fully on top.
+  - Lower back down slowly.
+  - Add weight only after the bodyweight version is easy and controlled.
 
-- Lateral squat shift
-- Cossack squat progression
-- Loaded lateral squat/Cossack work: add load only after the bodyweight version is stable and depth is comfortable
+- Lateral leg strength:
+  - Start with lateral squat shifts.
+  - Progress to shallow Cossack squats.
+  - Add weight only after the bodyweight version is stable and comfortable.
 
 #### For the Left Knee
 
@@ -503,20 +508,28 @@ Build strength through the ranges of motion restored during the mobility phases.
 
 Knee-to-wall mobility remains part of the program.
 
-- Short-foot / arch control: gently lift the arch without curling the toes; hold 5–8 seconds for 5–8 reps
-- Toe yoga / toe spreading: practice separating big-toe movement from the other toes for 5–10 reps each pattern
-- Calf raise: rise onto both toes, pause briefly, then lower slowly for 10–15 reps
-- Weighted calf raise: hold weight only after bodyweight calf raises are easy and controlled
-- Single-leg weighted calf raise: perform only when single-leg bodyweight calf raises are strong and controlled
+- Foot control:
+  - Short-foot / arch control: gently lift the arch without curling the toes; hold 5–8 seconds for 5–8 reps.
+  - Toe yoga / toe spreading: practice separating big-toe movement from the other toes for 5–10 reps each pattern.
 
-- Straight-knee calf raise: keep the knee mostly straight to bias the calf muscle higher up
-- Bent-knee calf raise / soleus raise: keep the knee softly bent throughout to bias the deeper soleus muscle
-- Loaded soleus work: add weight only when the bent-knee version stays smooth and controlled
+- Calf raise progression:
+  - Start with double-leg calf raises for 10–15 reps.
+  - Progress to single-leg calf raises when the double-leg version is easy.
+  - Add weight only after the single-leg version is strong and controlled.
 
-- Resisted dorsiflexion / tibialis anterior work: pull the foot upward against a band for 8–12 reps
-- Toe lifts or heel walks if tolerated: lift the front of the foot repeatedly or walk briefly on the heels with control
-- Resisted eversion / peroneal work: push the foot outward against a band for 8–12 reps without twisting the knee
-- Lateral balance and ankle-control drills: practice controlled side-to-side balance or step-and-hold work without letting the ankle collapse inward
+- Soleus raise progression:
+  - Do the same calf raise movement, but keep the knee softly bent the whole time.
+  - Rise onto the toes, pause briefly, then lower slowly.
+  - Start with bodyweight.
+  - To add weight, hold a dumbbell, kettlebell, or backpack while doing the bent-knee calf raise.
+
+- Front and outer lower-leg work:
+  - Resisted dorsiflexion: pull the foot upward against a band for 8–12 reps.
+  - Resisted eversion: push the foot outward against a band for 8–12 reps.
+  - Toe lifts or short heel walks can be used if tolerated.
+
+- Ankle control:
+  - Practice side-to-side balance or step-and-hold work without letting the ankle collapse inward.
 
 #### Primary Goals
 
@@ -545,23 +558,21 @@ Left ankle loading begins only after appropriate medical clearance.
 
 ### 5. Shoulders / Scapula
 
-- Scapular push-up
-- Push-up
-- Loaded push-up progression: elevate or load the push-up only after you can keep the trunk rigid and the shoulder blades controlled
+- Push-up progression:
+  - Start with scapular push-ups.
+  - Progress to regular push-ups.
+  - Add difficulty or load only after the trunk and shoulder blades stay controlled.
 
-- Hanging
-- Longer controlled hangs: gradually increase hang time only if the shoulder remains comfortable afterward
-- Active hangs: gently pull the shoulder blades down and back without bending the elbows much
-- Scapular pull-ups
-- Pull-ups / assisted pull-ups
+- Hanging / pulling progression:
+  - Start with comfortable hanging.
+  - Progress to active hangs by gently pulling the shoulder blades down and back.
+  - Then progress to scapular pull-ups, assisted pull-ups, or lat pulldowns.
+  - Increase load or difficulty only if the shoulders stay smooth and comfortable.
 
-- Lat pulldown
-- Progressively heavier lat pulldown: increase load only while keeping the shoulders controlled and the movement smooth
-- Pull-up progression: use assistance or reduced range as needed, and avoid shrugging or jerking
-
-- Shoulder flexion mobility
-- Controlled overhead movement
-- Light overhead pressing, only after comfortable overhead range and scapular control are established
+- Overhead work:
+  - Continue shoulder flexion mobility.
+  - Practice controlled overhead reaching.
+  - Add light overhead pressing only after overhead motion feels comfortable and controlled.
 
 #### Additional
 
