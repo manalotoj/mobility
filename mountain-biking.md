@@ -311,3 +311,240 @@ Instead:
 Progression principle:
 
 SMALL RANGE → CONTROLLED RANGE → LARGER RANGE → LOADED RANGE → MTB-SPECIFIC MOVEMENT
+
+--------------------------------------------------
+PHASE 3 — LOADED MOBILITY & STRENGTH
+--------------------------------------------------
+
+Progression: Mobility → Active Mobility → Bodyweight Control → Loaded Mobility → Strength → MTB-Specific Strength
+
+Goal:
+Build strength through the ranges of motion restored during the mobility phases. The weights should help you "own" the mobility rather than replace it.
+
+GENERAL PRINCIPLES
+- Maintain the mobility routine alongside strength training.
+- Start light and prioritize controlled range of motion.
+- Progress load gradually.
+- Do not sacrifice mobility or movement quality to lift more weight.
+- Avoid loading the healing left foot until medically cleared.
+- For the previously injured/stiff left knee, prioritize controlled strength through progressively greater knee flexion.
+- For the right shoulder, establish comfortable overhead mobility and scapular control before adding significant overhead loading.
+
+1. HIPS / GLUTES
+
+Glute bridge
+→ Weighted glute bridge
+→ Single-leg glute bridge
+→ Loaded single-leg hip extension
+
+Hip hinge
+→ Romanian deadlift
+→ Single-leg Romanian deadlift
+
+90/90 hip mobility
+→ Controlled loaded 90/90 transitions
+
+Hip airplane
+→ Progressively loaded hip stability work
+
+Primary goals:
+- Strong hip extension
+- Hip rotation control
+- Single-leg stability
+- Ability to maintain hip control while moving laterally
+
+2. KNEES / LEGS
+
+Sit-to-stand
+→ Bodyweight squat
+→ Goblet squat
+→ Progressively loaded squat
+
+Supported split squat
+→ Split squat
+→ Loaded split squat
+
+Step-up
+→ Loaded step-up
+
+Lateral squat shift
+→ Cossack squat progression
+→ Loaded lateral squat/Cossack work
+
+For the left knee:
+- Gradually increase comfortable knee-flexion range.
+- Strengthen through the available range.
+- Progress toward deeper flexion only as mobility and tolerance improve.
+- Do not force through sharp pain, catching, locking, instability, or a mechanical block.
+
+3. ANKLES / CALVES
+
+Knee-to-wall mobility remains part of the program.
+
+Calf raise
+→ Weighted calf raise
+→ Single-leg weighted calf raise
+
+Straight-knee calf raise
+→ Bent-knee calf raise / soleus raise
+→ Loaded soleus work
+
+Primary goals:
+- Maintain ankle dorsiflexion
+- Build calf strength
+- Build soleus strength
+- Develop strength at useful ankle ranges for descending, climbing, braking, and absorbing terrain
+
+Left ankle loading begins only after appropriate medical clearance.
+
+4. THORACIC SPINE / ROTATION
+
+Thoracic rotation mobility
+→ Controlled loaded rotation
+
+Open book / thoracic rotation
+→ Light cable or band rotational work
+
+Progress toward:
+- Controlled trunk rotation
+- Anti-rotation strength
+- Ability to rotate the torso while maintaining stable hips
+
+5. SHOULDERS / SCAPULA
+
+Scapular push-up
+→ Push-up
+→ Loaded push-up progression
+
+Hanging
+→ Longer controlled hangs
+→ Active hangs
+→ Scapular pull-ups
+→ Pull-ups / assisted pull-ups
+
+Lat pulldown
+→ Progressively heavier lat pulldown
+→ Pull-up progression
+
+Shoulder flexion mobility
+→ Controlled overhead movement
+→ Light overhead pressing, only after comfortable overhead range and scapular control are established
+
+Additional:
+- Band pull-aparts
+- Rows
+- Face-pull/scapular control variations
+
+Primary goals:
+- Comfortable overhead range
+- Strong scapular upward rotation/control
+- Strong pulling musculature
+- Shoulder stability under changing loads
+- Ability to maintain upper-body control while riding aggressively
+
+6. CORE / TRUNK
+
+Begin with:
+- Dead bug
+- Bird dog
+- Plank variations
+- Side plank
+
+Progress to:
+- Loaded dead bug variations
+- Pallof press
+- Cable/band anti-rotation
+- Loaded carries
+- Suitcase carries
+- Farmer carries
+
+Primary goals:
+- Resist unwanted rotation
+- Maintain stable trunk while hips and shoulders move
+- Transfer force between upper and lower body
+- Maintain control during braking, climbing, descending, and cornering
+
+7. SINGLE-LEG STRENGTH & CONTROL
+
+Once both legs are medically cleared and functioning normally:
+
+- Single-leg bridge
+- Single-leg Romanian deadlift
+- Step-ups
+- Split squats
+- Single-leg squat progression
+- Single-leg balance with reaches
+- Hip airplanes
+
+Progress from:
+Stable → controlled → loaded → dynamic
+
+The goal is not simply equal strength. The goal is the ability to control the bike when one leg is carrying more of the load or when body position changes rapidly.
+
+8. LATERAL STRENGTH
+
+Progress through:
+
+Lateral weight shift
+→ Lateral squat
+→ Cossack squat
+→ Loaded lateral squat
+→ Dynamic lateral movement
+
+Primary goals:
+- Lateral hip strength
+- Adductor strength
+- Hip mobility under load
+- Ability to shift center of mass while maintaining lower-body control
+
+This is particularly relevant to MTB cornering and technical terrain.
+
+9. MTB-SPECIFIC STRENGTH FOUNDATION
+
+Eventually emphasize:
+
+- Goblet squats
+- Romanian deadlifts
+- Split squats
+- Step-ups
+- Lateral squats/Cossack squats
+- Rows
+- Lat pulldowns/pull-ups
+- Push-ups
+- Loaded carries
+- Pallof presses
+- Rotational/anti-rotational core work
+- Calf/soleus raises
+
+These provide the general strength foundation for:
+
+- Descending
+- Braking
+- Cornering
+- Standing climbs
+- Technical climbing
+- Repeated short power efforts
+- Maintaining the attack position
+- Absorbing terrain
+- Moving the bike underneath the body
+
+10. FINAL PROGRESSION
+
+Mobility
+→ Active mobility
+→ Bodyweight control
+→ Loaded mobility
+→ Basic strength
+→ Unilateral strength
+→ Lateral/dynamic strength
+→ MTB-specific strength and movement
+
+The objective is:
+
+REGAIN the RANGE
+→ CONTROL the RANGE
+→ STRENGTHEN the RANGE
+→ APPLY the RANGE DYNAMICALLY
+→ USE IT AUTOMATICALLY ON THE BIKE
+
+Strength should make the mobility permanent and usable, not turn the program into a pure weightlifting routine.
