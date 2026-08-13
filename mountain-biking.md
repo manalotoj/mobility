@@ -83,14 +83,15 @@ Do not chase maximum range.
 
 6. HIP FLEXOR MOBILITY
 
-Supported seated hip-flexor stretch:
-- Sit toward the front of a chair or other stable surface.
-- Position the right leg slightly behind you.
-- Keep torso upright.
-- Gently move the right hip forward.
+Supine hip-flexor stretch
+- Lie on your back near the edge of the bed.
+- Bring the right knee toward your chest.
+- Let the right leg then extend off the edge of the bed while the left leg remains comfortably supported.
+- Keep the pelvis neutral.
+- Let gravity gently lengthen the front of the right hip.
 - 20–30 seconds × 2.
 
-Left-side positioning should only be used if it does not stress the injured foot.
+No force, no foot loading.
 
 7. GLUTE BRIDGE PROGRESSION
 
