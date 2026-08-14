@@ -163,17 +163,13 @@ The fact that lat pulldowns and hanging are now possible is a positive progressi
 #### A. Supine Shoulder Flexion
 
 - Lie on your back.
-- Start with right arm alongside body.
-- Slowly raise the right arm overhead toward the floor.
-- Keep ribs from excessively flaring.
-- Go only as far as comfortable.
-- Slowly return.
-- 8–10 reps.
-
-#### Optional Progression
-
-- Use the left arm to gently assist the right arm through the last part of its comfortable range.
-- Do not force the shoulder into painful range.
+- Start with the right arm alongside your body.
+- Gently set the shoulder blade back and down, without aggressively squeezing it.
+- Slowly raise the right arm overhead.
+- Allow the shoulder blade to rotate and move naturally as the arm goes overhead.
+- Explore the full comfortable range.
+- Slowly lower the arm.
+- 8–10 controlled reps.
 
 #### B. Hanging Progression
 
