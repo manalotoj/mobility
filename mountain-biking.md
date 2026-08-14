@@ -53,11 +53,13 @@ Restore overall mobility and movement quality while protecting the healing left 
 
 #### B. Seated Relaxed Knee Flexion
 
-- Sit comfortably on the floor.
-- Allow the left knee to bend naturally.
-- Do not pull aggressively on the foot/cast.
-- Relax and breathe while allowing the knee to settle into its available range.
-- 30–60 seconds.
+- Sit on the floor with your legs extended in front of you.
+- Keep the left heel/cast supported so you aren't putting weight through the foot.
+- Slowly bend the left knee, allowing the heel/cast to move toward your butt.
+- Stop when you reach your current comfortable limit.
+- Hold there for 2–3 seconds.
+- Slowly straighten the knee again.
+- 8-10 reps.
 
 #### Important
 
