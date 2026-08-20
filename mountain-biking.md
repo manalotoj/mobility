@@ -35,8 +35,6 @@ Restore overall mobility and movement quality while protecting the healing left 
 - Sit in a comfortable 90/90 position.
 - Slowly rotate between positions as tolerated.
 - 6–8 controlled transitions.
-- Follow with a gentle forward fold if comfortable.
-- 20–30 seconds per side.
 - Position the injured left leg so the foot/cast is completely protected and not loaded.
 
 ### 3. Left Knee Mobility
@@ -47,7 +45,6 @@ Restore overall mobility and movement quality while protecting the healing left 
 
 - Lie on your back.
 - Slowly bend the left knee as far as comfortable.
-- Pause 3–5 seconds.
 - Slowly straighten.
 - 8–10 reps.
 
@@ -57,9 +54,20 @@ Restore overall mobility and movement quality while protecting the healing left 
 - Keep the left heel/cast supported so you aren't putting weight through the foot.
 - Slowly bend the left knee, allowing the heel/cast to move toward your butt.
 - Stop when you reach your current comfortable limit.
-- Hold there for 2–3 seconds.
+- Stop at your current comfortable limit.
 - Slowly straighten the knee again.
 - 8-10 reps.
+
+#### C. Supported Deep Knee-Flexion Rocks
+
+- Sit on the floor with the left leg supported.
+- Slowly bend the left knee toward the available end range.
+- Slowly return toward extension.
+- Continue moving through the available range.
+- 8–10 controlled reps.
+- Gradually increase the range over time.
+- Do not pull the heel toward the butt.
+- Do not force the knee into deep flexion.
 
 #### Important
 
@@ -68,7 +76,28 @@ Restore overall mobility and movement quality while protecting the healing left 
 - Do NOT try to force the left knee into a heel-to-butt position.
 - The long-term goal is eventually restoring enough flexion to comfortably sit toward the heels again, but this will be gradual.
 
-### 4. Right Ankle Mobility
+### 4. Combined Hip / Knee Mobility
+
+#### A. Supine Figure-4 Entry / Exit
+
+- Lie on your back.
+- Bring one knee toward the chest.
+- Move the thigh outward.
+- Bring the ankle toward the opposite thigh.
+- Return to the starting position.
+- 6–10 controlled reps per side.
+- Move only through the available range.
+- Do not pull the leg into position.
+
+#### B. Butterfly Knee Drops
+
+- Sit on the floor with the soles of the feet together.
+- Allow both knees to move toward the floor through a comfortable range.
+- Slowly return to the starting position.
+- 8–10 controlled reps.
+- Do not push the knees toward the floor with your hands.
+
+### 5. Right Ankle Mobility
 
 - While the left foot is healing, work the right ankle normally.
 
@@ -81,7 +110,7 @@ Restore overall mobility and movement quality while protecting the healing left 
 
 - Later, restore left ankle mobility once medically cleared.
 
-### 5. Hamstring Mobility
+### 6. Hamstring Mobility
 
 Supine hamstring leg extension
 
@@ -95,7 +124,7 @@ Don't force the knee straight.
 
 For the left leg, support the leg with your hands behind the thigh or use a strap around the thigh if needed. Don't pull on the foot/cast.
 
-### 6. Supine Marching
+### 7. Supine Marching
 
 - Lie on your back, legs straight.
 - Slowly bring the right knee toward your chest.
@@ -104,7 +133,7 @@ For the left leg, support the leg with your hands behind the thigh or use a stra
 - 8–12 reps.
 - Then do the left side if the cast/foot position allows it without stressing the injury.
 
-### 7. Glute Bridge Progression
+### 8. Glute Bridge Progression
 
 #### Current: Right-Leg Glute Bridge
 
@@ -221,17 +250,6 @@ Do not turn hanging into a grip-strength workout. The current goal is shoulder/s
 Keep everything controlled.
 No aggressive neck stretching.
 
-### 12. Relaxation / Reset
-
-Finish with approximately 2 minutes of relaxed breathing.
-
-- Lie comfortably on your back.
-- 4-second inhale.
-- 6-second exhale.
-- Relax shoulders, jaw, abdomen, hips, and legs.
-- Let the body gradually release unnecessary tension.
-
-The purpose is not just flexibility. It reinforces the ability to move without constantly guarding or bracing.
 
 ## Phase 2: Once Walking Normally Again
 
@@ -294,9 +312,17 @@ If any of these clearly increase pain, swelling, or limping later that day or th
 ### 2. Hips
 
 - 90/90 transitions: 8
-- 90/90 forward fold: 20–30 sec/side
 - Supported hip airplane or supported single-leg balance reach: 3–5/side
+- Butterfly knee drops: 8–10 controlled reps
+
+- Dynamic figure-4: move into and out of the figure-4 position without pulling the leg into place; 6–10 controlled reps per side
 - Adductor rock-backs: start on hands and knees, straighten one leg out to the side with the foot flat, then gently rock the hips backward and forward; 8–10 reps per side
+
+#### Combined Hip / Knee Mobility
+
+- Supine figure-4 entry / exit: 6–10 controlled reps per side
+- Focus on controlling the combined hip-flexion, external-rotation, abduction, and knee-flexion movement.
+- Do not force the knee toward the floor or pull the foot into position.
 
 ### 3. Hamstrings
 
@@ -305,7 +331,7 @@ If any of these clearly increase pain, swelling, or limping later that day or th
 ### 4. Knees
 
 - Progressive knee-flexion work: gently bend and straighten the knee through the comfortable range, then gradually work deeper over time as stiffness improves
-- Supported deep knee flexion: use a counter, door frame, or sturdy support and slowly lower into a deeper bend only as tolerated, then return to standing
+- Supported deep knee-flexion rocks: use a counter, door frame, or sturdy support; slowly move into the deepest comfortable knee-flexion position and return to standing; 6–10 controlled reps
 - Gradually work toward comfortable heel-to-butt range
 - Never force through pain or a mechanical block
 
@@ -334,7 +360,7 @@ If any of these clearly increase pain, swelling, or limping later that day or th
 ### 8. Squat / MTB Position
 
 - Deep squat hold: 20–30 seconds, holding support if needed and only going as low as the foot, ankle, and knee tolerate
-- Supported squat → stand: 8–10 reps, using a door frame, counter, or TRX-style support if needed
+- Supported deep squat rocks: use a counter, door frame, or other stable support; slowly lower into the deepest comfortable squat, gently move through the available range, then return to standing; 6–10 controlled reps
 - Hip hinge: 10 reps, focusing on pushing the hips back while keeping the torso long and controlled
 
 ### 9. Lateral / Single-Leg Control
@@ -351,6 +377,16 @@ Keep the standing knee soft and the foot relaxed during the single-leg drills. I
 
 These develop the ability to move the center of mass laterally while maintaining control through the legs and hips — directly relevant to MTB cornering and technical riding.
 
+### 10. MTB Outside-Leg Mobility
+
+- Stand in a supported MTB attack position using a counter, rack, or other stable support.
+- Slowly shift into the outside-leg position used for cornering.
+- Allow the outside leg to extend and the hips to shift laterally.
+- Return to the centered attack position.
+- 6–8 controlled reps per side.
+- Progress the range gradually.
+- Do not hold the position or force the knee or hip into range.
+
 ## 5-Minute Pre-Ride MTB Mobility
 
 ### Once Fully Weight-Bearing and Cleared for Riding
@@ -365,7 +401,7 @@ These develop the ability to move the center of mass laterally while maintaining
 2. 90/90 hip rotations — 6/side
 3. Adductor rock-backs — 8/side
 4. Thoracic rotations — 6/side
-5. Deep squat + reach — 5
+5. Supported deep squat rocks — 5
 6. Hip hinges — 8
 7. 30–60 seconds of relaxed MTB-ready movement
 
